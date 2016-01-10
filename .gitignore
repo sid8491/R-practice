@@ -14,5 +14,3 @@ vignettes/*.pdf
 
 # ignore checkpoint folder
 .ipynb_checkpoints
-
-Quiz 1.ipynb
